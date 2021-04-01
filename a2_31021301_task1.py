@@ -3,7 +3,7 @@
 # Assignment 2 - FIT9136
 # Student ID : 31021301
 # Created on Fri May 22 2020
-# Author: Akshaya Kumar Chandrasekaran
+# Author: Akshaya Kumar Chandrasekaran / Co_Author : Namrata Palai
 # Last modified : 04-06-2020
 #
 #In this py file,  a person class and objects for the class is created
